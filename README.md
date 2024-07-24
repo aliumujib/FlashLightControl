@@ -33,8 +33,6 @@ Here's a comparison of our Android implementation with the original iOS 18 flash
 |------------------------------------|----------------------------|
 | ![Android Gif](assets/Android.gif) | ![iOS Gif](assets/iOS.gif) |
 
-Our Android implementation closely mimics the fluidity and interactivity of the iOS version,
-showcasing the power and flexibility of Jetpack Compose for creating complex, custom animations.
 
 ## Key Features
 
